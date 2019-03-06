@@ -1,0 +1,1 @@
+from .jquerylist import JQueryList
